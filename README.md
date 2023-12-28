@@ -19,6 +19,8 @@ Capstone project of Angela yu web development course built using React.
 
 
 ### Add Note
+![image](https://github.com/prashantjagtap2909/Keeper-app/assets/93985255/24234446-b4c6-45f4-9d6e-4d5370b7fa93)
+![image](https://github.com/prashantjagtap2909/Keeper-app/assets/93985255/1681e2b1-947f-40bc-b8fc-552d65c93a9a)
 
 
 ### Delete Note
