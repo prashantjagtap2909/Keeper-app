@@ -14,6 +14,7 @@ Capstone project of Angela yu web development course built using React.
 
 ### Home Page
 
+![image](https://github.com/prashantjagtap2909/Keeper-app/assets/93985255/7903fb85-e22a-4c6d-bdde-16d86619f47d)
 
 
 
